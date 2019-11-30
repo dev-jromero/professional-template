@@ -19,7 +19,7 @@
 - Windows : https://nodejs.org/
 - Linux o mac : `sudo apt-get install nodejs`
 
-## nota: si tiene software instalados 
+ 
 
 
 ## Instalación
