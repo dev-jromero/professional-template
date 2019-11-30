@@ -18,13 +18,13 @@
 2. Instalar node <br>
 - Windows : https://nodejs.org/
 - Linux o mac : `sudo apt-get install nodejs`
-
+3. Instalar gulp <br>
+- con el siguiente comando`npm install gulp-cli -g`
  
 
 
 ## Instalación
 
-- clona este repositorio: `git clone git@github.com:jhonub/professional-template.git`
-- cd en el directorio y ejecuta el comando `npm install` en la terminal, instalará las dependencias
-- luego ejecuta el comando `gulp` se iniciara automaticamente la plantilla
-- Si sale error al ejecutar `gulp` tienes que instalarlo con el siguiente comando`npm install gulp-cli -g`
+- clona este repositorio: `git clone git@github.com:jhonub/professional-template.git`.
+- cd en el directorio y ejecuta el comando `npm install` en la terminal, instalará las dependencias.
+- luego ejecuta el comando `gulp` se iniciara automaticamente la plantilla.
