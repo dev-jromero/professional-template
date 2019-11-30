@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&display=swap');
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+nav{
+    color: rgb(252, 252, 252);
+}
+.navbar-brand img{
+    width: 50px;
+}
+main{
+    padding: 30px;
+}
+section{
+    margin: 0 auto;
+    img{
+        width: 350px;
+    }
+    .text{
+        font-family: 'Open Sans';
+        color: rgb(100, 100, 100);
+        font-weight: bold;
+        letter-spacing: 0.3em;
+        word-spacing: 5pt;
+        text-transform: uppercase;
+        font-size: 15px;
+    }
+}
