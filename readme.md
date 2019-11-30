@@ -19,7 +19,7 @@
 - Windows : https://nodejs.org/
 - Linux o mac : `sudo apt-get install nodejs`
 3. Instalar gulp <br>
-- con el siguiente comando`npm install gulp-cli -g`
+- Windows, Linux o mac : `npm install gulp-cli -g`
  
 
 
