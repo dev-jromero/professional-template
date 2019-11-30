@@ -27,3 +27,4 @@
 - clona este repositorio: `git clone git@github.com:jhonub/professional-template.git`
 - cd en el directorio y ejecuta el comando `npm install` en la terminal, instalará las dependencias
 - luego ejecuta el comando `gulp` se iniciara automaticamente la plantilla
+- Si sale error al ejecutar `gulp` tienes que instalarlo con el siguiente comando`npm install gulp-cli -g`
